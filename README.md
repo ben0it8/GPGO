@@ -14,4 +14,4 @@ Our implementation supports:
 * optimization of functions with noisy observations
 * hyperparameter sampling and marginalization (using MCMC)
   
-See "demo.ipynb" and "demo-experiments.ipynb" for example usage and our report.
+See "demo.ipynb" and "demo-experiments.ipynb" for example usage.
